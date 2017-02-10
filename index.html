@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="js/jqueryJson.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.1/bootstrap-table.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/index.js" async></script>
+
+    <link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap3-editable/css/bootstrap-editable.css" rel="stylesheet"/>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap3-editable/js/bootstrap-editable.min.js"></script>
+
+
+
+</head>
+
+<body class="background">
+<div id="container">
+    <div id="login">
+        <hgroup>
+            <h1>Please Login</h1>
+            <h3>Morty</h3>
+        </hgroup>
+        <form>
+            <div class="group">
+                <input type="text" id="name" required><span class="highlight"></span><span class="bar"></span>
+                <label>Name</label>
+            </div>
+            <div class="group">
+                <input type="password" id="password" required><span class="highlight"></span><span class="bar"></span>
+                <label>Password</label>
+            </div>
+            <div style="display: none;" class="alert alert-danger" id="errorMessage"> Please enter valid name and password</div>
+            <button type="button" class="button buttonBlue" id="submit_button">Submit
+                <div class="ripples buttonRipples"><span class="ripplesCircle"></span></div>
+            </button>
+        </form>
+
+
+        <footer><a href="https://qanta.ai/" target="_blank"><img src="image/qanta600px.png"></a>
+            <p>You Gotta Love <a href="https://qanta.ai/" target="_blank">Qanta</a></p>
+        </footer>
+    </div>
+
+<div class="table-wrapper" id="TableHolder">
+    <div class="information hidden" id="NotVisibleContainer">
+        <div class="row">
+        <div class="col-sm-8 col-xs-8 col-md-8"> <p>Wholesale Non-Agency Jumbo Mortgage Pricing Adjustments Ethos Lending </p>
+        <p>180 Montgomery St, Suite 1000 Effective Date: San Francisco, CA 94104 Jan 6, 2017                       (415) 780-7400 </p>
+        <p>Indicative pricing only. For actual pricing please visit:
+            <a href=" https://broker.ethoslending.com"   target="_blank">https://broker.ethoslending.com</a>
+        </p>
+
+        </div>
+       <div class="col-sm-4 col-xs-4 col-md-4">
+        <img src="image/ethosLogoWhite.png" class="ethosLogo img-responsive">
+       </div>
+        </div>
+    </div>
+
+        <table id="table2" class="table-responsive">
+            <thead>
+            </thead>
+        </table>
+    <a href="#" type="submit" class="btn btn-default pull-right editable-submit  hidden" id="SaveButton">Save&Close</a>
+        </div>
+
+</div>
+
+</body>
+</html>

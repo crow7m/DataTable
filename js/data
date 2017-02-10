@@ -1,0 +1,341 @@
+[
+  {
+  "string":"Fees",
+  "string1": "",
+  "string2":"",
+  "string3":"",
+  "string4":"",
+  "string5":""},
+  {
+
+    "string": "Lender Fee",
+    "string1": "$895",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""
+  },
+  {
+
+    "string": "Tax Service Fee",
+    "string1": "$69",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""
+  },
+  {
+
+    "string": "Flood Certification Fee",
+    "string1": "$12",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""
+  },
+  {
+
+    "string": "Texas Doc Prep Fee",
+    "string1": "$150",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""
+  },
+  {
+    "string":"Max of LTV/CLTV/HCLTV Ratio",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+  {
+    "string":"≤ 60",
+    "string1":"60.01-65",
+    "string2":"65.01-70",
+    "string3":"70.01-7",
+    "string4":" 75.01-80",
+    "string5":""},
+  {
+    "string":"FICO Score",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"≥ 7600",
+    "string1":"0.50%",
+    "string2":"0.375%",
+    "string3":"0.25%",
+    "string4":"0%",
+    "string5":"-0.25%"},
+
+  {
+    "string":"740-759",
+    "string1":"0.375%",
+    "string2":"0.125%",
+    "string3":"0%",
+    "string4":"-0.375%",
+    "string5":"-0.625%"},
+
+  {
+
+    "string":"720-739",
+    "string1":"0.25%",
+    "string2":"-0.125%",
+    "string3":"-0.375%",
+    "string4":"-0.625%",
+    "string5":"-1.00%"},
+
+  {
+
+    "string":"700-719",
+    "string1":"0.125%",
+    "string2":"-0.375%",
+    "string3":"-0.625%",
+    "string4":"Not Eligible",
+    "string5":"Not Eligible"},
+
+  {
+    "string":"Loan Amount",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"Up to $1M",
+    "string1":"0.25%",
+    "string2":"0.25%",
+    "string3":"0.125%",
+    "string4":"0%",
+    "string5":"0%"},
+
+  {
+    "string":">$1M Up to $1.5M",
+    "string1":"0.25%",
+    "string2":"0%",
+    "string3":"-0.125%",
+    "string4":"-0.25%",
+    "string5":"-0.375%"},
+
+  {
+    "string":">$1.5M Up to $2M",
+    "string1":"0.125%",
+    "string2":"0%",
+    "string3":"-0.25%",
+    "string4":"-0.375%",
+    "string5":"Not Eligible"},
+
+  {
+    "string":">$2M Up to $2.5M",
+    "string1":"0%",
+    "string2":"-0.125%",
+    "string3":"Not Eligible",
+    "string4":"Not Eligible",
+    "string5":"Not Eligible"},
+
+  {
+
+    "string": "Loan Purpose/Occupancy/Property Type",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+
+  {
+    "string":"Purchase",
+    "string1":"0.25%",
+    "string2":"0.25%",
+    "string3":"0.25%",
+    "string4":"0.25%",
+    "string5":"0.25%"},
+
+  {
+    "string":"Cash-Out Refinance",
+    "string1":"-0.25%",
+    "string2":"-0.25%",
+    "string3":"-0.25%",
+    "string4":"Not Eligible",
+    "string5":"Not Eligible"},
+
+  {
+    "string":"Second Home ",
+    "string1":"-0.125%",
+    "string2":"-0.25%",
+    "string3":"-0.375%",
+    "string4":"-0.75% ",
+    "string5":"Not Eligible"},
+
+
+  {
+    "string":"2 Units",
+    "string1":"-0.25%",
+    "string2":"-0.25%",
+    "string3":"Not Eligible",
+    "string4":"Not Eligible",
+    "string5":"Not Eligible"},
+
+
+  {
+    "string":"Miscellaneous",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"BE DTI > 40%",
+    "string1":"-0.625%",
+    "string2":"-0.625%",
+    "string3":"-0.625%",
+    "string4":"-0.625%",
+    "string5":"-0.625%"},
+
+
+  {
+    "string":"Partial/No Impounds/All States",
+    "string1":"-0.15%",
+    "string2":"-0.15%",
+    "string3":"-0.15%",
+    "string4":"-0.15%",
+    "string5":"-0.15%"},
+
+  {
+    "string":"Subordinate Financing",
+    "string1":"-0.25%",
+    "string2":"-0.25%",
+    "string3":"-0.25%",
+    "string4":"-0.25%",
+    "string5":"-0.25%"},
+
+  {
+    "string":"Eligible Broker Incentives",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"Tier",
+    "string1":"Super Elite",
+    "string2":"Elite",
+    "string3":"Gold",
+    "string4":"Silver",
+    "string5":"Bronze"},
+
+  {
+    "string":"Elite Bonus",
+    "string1":"0.250%",
+    "string2":"0.125%",
+    "string3":"0%",
+    "string4":"0%",
+    "string5":"0%"},
+
+  {
+    "string":"Ethos Edge*",
+    "string1":"0.125%",
+    "string2":"0.125%",
+    "string3":"0.125%",
+    "string4":"0%",
+    "string5":"0%"},
+
+
+
+  {
+    "string":"Purchase Special (Purchase Primary Residence)",
+    "string1":"0.125%",
+    "string2":"0.125%",
+    "string3":"0.125%",
+    "string4":"0.125%",
+    "string5":"0%"},
+
+  {
+    "string":"Max Price (Including All Adjustments)",
+    "string1":"",
+    "string2":"",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"Loan Amount",
+    "string1":"≤ $1M",
+    "string2":">$1",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"Fixed 30-Year",
+    "string1":"102.00 ",
+    "string2":"101.50",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"Fixed 15-Year",
+    "string1":"101.50",
+    "string2":"101.25",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+  {
+    "string":"5/1 ARM",
+    "string1":"100.85",
+    "string2":" 100.75",
+    "string3":"",
+    "string4":"",
+    "string5":""},
+
+
+  {
+    "string":"7/1 ARM",
+    "string1":"100.85",
+    "string2":"100.75",
+    "string3":"",
+    "string4":"",
+    "string5":""}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
